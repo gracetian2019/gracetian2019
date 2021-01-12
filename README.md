@@ -1,16 +1,31 @@
-### Hi there 👋
+##  Hi, I am Grace 👋 Welcome to my GitHub!                                                  
+___
 
-<!--
-**gracetian2019/gracetian2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <details>
+ <summary> My GitHub Stats :heartbeat: :innocent: :woman_technologist:</summary>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracetian2019&langs_count=8)](https://github.com/gracetian2019/github-readme-stats)  [![github stats](https://github-readme-stats.vercel.app/api?username=gracetian2019)](https://github.com/gracetian2019/github-readme-stats&theme=flag-india&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</details>
+
+
+
+
+___
+
+
+
+<details>
+ <summary> Let's Connect and Chat :trollface: :seedling:</summary>
+  
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ge-tian/)  [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gracetian4ever)          
+
+</details>
+
+___
+
+   #####  :four_leaf_clover::four_leaf_clover::four_leaf_clover::four_leaf_clover:  HAPPY CODING :four_leaf_clover::four_leaf_clover::four_leaf_clover::four_leaf_clover:
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
